@@ -9,10 +9,10 @@ Clone the project
 
 Open the project with your IDE
 
-![](images/filename%20openproject.PNG)
+![](images/openproject.PNG)
 
 
-![](images/filename%20openasproject.PNG)
+![](images/openasproject.PNG)
 
 ### Usage
 
@@ -27,7 +27,7 @@ Open the project with your IDE
     The mutant dna have more than 2 sequences of letters (A,T,C,G) compose for at least four characters. you can see 
     an example in the image.
     
-    ![](images/filename%20dnaExample.png)
+   ![](images/dnaExample.png)
     
     All strings should have the same length, that lengh must be equals to array length. 
     Examples:
