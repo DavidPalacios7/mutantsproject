@@ -38,3 +38,8 @@ Open the project with your IDE
     {"dna":["TTTT","TTTT","TTTT","TTTT"]}
 
     {"dna":["SQWS","AWER","AZXS","HFED"]}
+
+
+#### Testing
+
+    mvn clean test
